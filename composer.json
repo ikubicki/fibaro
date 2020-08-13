@@ -1,0 +1,19 @@
+{
+    "name": "irekk/fibaro",
+    "description": "Fibaro Home Center's Netatmo QuickApp connector",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Irek Kubicki",
+            "email": "irek@ixdude.com"
+        }
+    ],
+	"autoload": {
+		"psr-4": {
+            "Irekk\\Fibaro\\": "src/Fibaro"
+        }
+	},
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
