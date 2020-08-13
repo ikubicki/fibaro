@@ -2,6 +2,7 @@
     "name": "irekk/fibaro",
     "description": "Fibaro Home Center's Netatmo QuickApp connector",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Irek Kubicki",
